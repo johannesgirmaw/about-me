@@ -46,9 +46,9 @@ I’m 5+ years of senior software developer where I build innovative digital sol
 
 ## 📊 GitHub Stats  
 
-![Yohannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)  
+![Yohannes' GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesgirmaw&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johannesgirmaw&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=johannesgirmaw&theme=radical&hide_border=true)  
 
 ---
 
