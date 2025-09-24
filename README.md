@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yohannes Girmaw  
 💻 Full-Stack Developer | 🚀 AI & Cloud Enthusiast | 🌍 Tech Entrepreneur  
 
-I’m the CEO & Co-Founder of **Nisir IT Solution**, where we build innovative digital solutions in ERP, E-Learning, and AI. With experience in leading teams, building scalable systems, and delivering impactful products, I thrive at the intersection of **technology, business, and innovation**.  
+I’m 5+ years of senior software developer where I build innovative digital solutions in ERP, E-Learning, and AI. With experience in leading teams, building scalable systems, and delivering impactful products, I thrive at the intersection of **technology, business, and innovation**.  
 
 ---
 
