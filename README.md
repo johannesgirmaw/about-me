@@ -45,9 +45,9 @@ My passion lies in guiding projects through the entire SDLC, from initial client
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohannesgirmaw&show_icons=true&theme=radical&hide_border=true" alt="Yohannes' GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesgirmaw&layout=compact&theme=radical&hide_border=true" alt="Yohannes' Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=yohannesgirmaw&theme=radical&hide_border=true" alt="Yohannes' GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johannesgirmaw&show_icons=true&theme=radical&hide_border=true" alt="Yohannes' GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johannesgirmaw&layout=compact&theme=radical&hide_border=true" alt="Yohannes' Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=johannesgirmaw&theme=radical&hide_border=true" alt="Yohannes' GitHub streak" />
 </p>
 
 ---
